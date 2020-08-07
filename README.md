@@ -9,25 +9,29 @@
 ## Glad to see you here! 🤩 ![visitors](https://rosspatil-visitor-badge.glitch.me/badge?page_id=rosspatil.rosspatil)
 
 
-I am a Product Developer 👨‍💻 at CloudCover, Pune. I do architect, design, development, testing and also handles the deployment in a multi-cloud environment. 
+Roshan is a Product Developer 👨‍💻 at CloudCover, Pune. He architects, design, develop products with a TDD approach and also handles the deployment in a multi-cloud environment.
 
-I was a lead developer in India's biggest cloud to cloud, big-bang migration project.
+Roshan has a very diversified profile which includes the aspect of Product Development, DevOps, and Data engineering.
 
-Being a Cloud-Native Developer ☁️, I am enjoying the journey with cutting-edge Cloud technologies to develop and orchestrate products on the Clouds.
+Roshan was a lead developer in India's biggest cloud to cloud, big-bang migration.
 
-I have a strong experience in the implementation of pure microservice and event driven architectures.
+Being a Cloud-Native Enthusiast ☁️, Roshan is enjoying the journey with cutting-edge Cloud native technologies to develop cloud products that provide enterprises a self-managed cloud environment with total governance to help them move faster on any public cloud.
 
-A strong technical person, I quickly wanted to become a polyglot developer and heading towards the Product Architect path.
+Roshan has strong proficiency in writing CI/CD on any public cloud as well as on other automation tools like Jenkins, Spinnaker, etc. He himself handling CI/CD for the products he is developing or already being developed.
 
-As a proud developer, I love ❤️ to contribute back in Open Source Community.
+Roshan has a strong experience in the implementation of pure microservice and event driven architectures.
 
-#### My Open Source Contribution 👇🏾👇🏾👇🏾
+A strong technical person, Roshan quickly wanted to become a polyglot developer and heading towards the Product Architect path.
+
+As a proud developer, Roshan loves ❤️ to contribute back in Open Source Community.
+
+#### Roshan's Open Source Contribution 👇🏾👇🏾👇🏾
  1. <a href="https://github.com/cloudspannerecosystem/dynamodb-adapter">DynamoDB Adapter</a> </h2>
  
     Role - Admin, Maintainer, & Reviewer.
 
 ---
-## My Tech skills 👇🏾👇🏾👇🏾
+## Roshan's skills 👇🏾👇🏾👇🏾
 
 ### Coding </>
 
