@@ -9,19 +9,19 @@
 ## Glad to see you here! 🤩 ![visitors](https://rosspatil-visitor-badge.glitch.me/badge?page_id=rosspatil.rosspatil)
 
 
-Roshan is a Product Developer 👨‍💻 at CloudCover, Pune. He architects, design, develop products with a TDD approach and also handles the deployment in a multi-cloud environments.
+Roshan is a Product Developer 👨‍💻 at CloudCover, Pune. He architects, design, develop products with a TDD approach and also handles the deployment in multi-cloud environments.
 
-A Goto person for all of your `GoLang` requirements and also fully loaded with varity of technologies to develop softwares in modern era from frontend, backend, and databases to the deployments.
+A Goto person for all of your GoLang requirements and also fully loaded with a variety of technologies to develop software in the modern era from frontend, backend, and databases to the deployments.
 
-Roshan has a much-diversified outline which includes the aspect of Product Development, DevOps, and Data engineering in the cloud native space.
+Roshan has a much-diversified outline which includes the aspect of Product Development, DevOps, and Data Engineering in the cloud-native space.
 
-Being a Cloud-Native Enthusiast ☁️, Roshan is enjoying the journey with cutting-edge Cloud native technologies to develop cloud product that provide enterprises a self-managed cloud environment with total governance to help them move faster on any public cloud.
+Being a Cloud-Native Enthusiast ☁️, Roshan is enjoying the journey with cutting-edge Cloud native technologies to develop cloud products that provides enterprises a self-managed cloud environment with total governance to help them move faster on any public cloud.
 
 Roshan was a lead developer in India's biggest cloud to cloud, big-bang migration.
 
 Roshan has strong proficiency in writing CI/CD on any public cloud as well as on other automation tools like Jenkins. He himself handling CI/CD for the products he is developing or already being developed.
 
-Roshan has a strong experience in the implementation of pure microservice and event driven architectures.
+Roshan has a strong experience in the implementation of pure microservice and event-driven architectures.
 
 A strong technical person, Roshan quickly wanted to become a polyglot developer and heading towards the Software Architect path.
 
