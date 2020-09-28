@@ -9,19 +9,21 @@
 ## Glad to see you here! 🤩 ![visitors](https://rosspatil-visitor-badge.glitch.me/badge?page_id=rosspatil.rosspatil)
 
 
-Roshan is a Product Developer 👨‍💻 at CloudCover, Pune. He architects, design, develop products with a TDD approach and also handles the deployment in a multi-cloud environment.
+Roshan is a Product Developer 👨‍💻 at CloudCover, Pune. He architects, design, develop products with a TDD approach and also handles the deployment in a multi-cloud environments.
 
-Roshan has a very diversified profile which includes the aspect of Product Development, DevOps, and Data engineering.
+A Goto person for all of your `GoLang` requirements and also fully loaded with varity of technologies to develop softwares in modern era from frontend, backend, and databases to the deployments.
+
+Roshan has a much-diversified outline which includes the aspect of Product Development, DevOps, and Data engineering in the cloud native space.
+
+Being a Cloud-Native Enthusiast ☁️, Roshan is enjoying the journey with cutting-edge Cloud native technologies to develop cloud product that provide enterprises a self-managed cloud environment with total governance to help them move faster on any public cloud.
 
 Roshan was a lead developer in India's biggest cloud to cloud, big-bang migration.
 
-Being a Cloud-Native Enthusiast ☁️, Roshan is enjoying the journey with cutting-edge Cloud native technologies to develop cloud products that provide enterprises a self-managed cloud environment with total governance to help them move faster on any public cloud.
-
-Roshan has strong proficiency in writing CI/CD on any public cloud as well as on other automation tools like Jenkins, Spinnaker, etc. He himself handling CI/CD for the products he is developing or already being developed.
+Roshan has strong proficiency in writing CI/CD on any public cloud as well as on other automation tools like Jenkins. He himself handling CI/CD for the products he is developing or already being developed.
 
 Roshan has a strong experience in the implementation of pure microservice and event driven architectures.
 
-A strong technical person, Roshan quickly wanted to become a polyglot developer and heading towards the Product Architect path.
+A strong technical person, Roshan quickly wanted to become a polyglot developer and heading towards the Software Architect path.
 
 As a proud developer, Roshan loves ❤️ to contribute back in Open Source Community.
 
@@ -30,6 +32,10 @@ As a proud developer, Roshan loves ❤️ to contribute back in Open Source Comm
  
     Role - Admin, Maintainer, & Reviewer.
 
+#### Here are some of the blogs published by Roshan -
+ 1. <a href="https://hackernoon.com/using-dal-for-migration-from-dynamodb-to-spanner-and-bigtable-9hx3t2q"> Using DAL For Migration From DynamoDB to Spanner and Bigtable </a>
+ 2. <a href="https://cldcvr.com/news-and-media/blog/distributed-tracing-so-your-ops-team-can-stop-having-sleepless-nights/"> Distributed Tracing - So Your Ops Team Can Stop Having Sleepless Nights </a>
+ 3. <a href="https://cldcvr.com/news-and-media/blog/how-to-successfully-migrate-data-from-dynamodb-to-spanner-and-bigtable/" > How to successfully migrate data from DynamoDB to Spanner and Bigtable </a>
 ---
 ## Roshan's skills 👇🏾👇🏾👇🏾
 
@@ -74,8 +80,8 @@ As a proud developer, Roshan loves ❤️ to contribute back in Open Source Comm
 
 ### Automation Tools
 
-|[<img  src="https://raw.githubusercontent.com/rosspatil/rosspatil/master/pics/36.png" title="Azure Devops" width="50" height="50">]()|[<img  src="https://raw.githubusercontent.com/rosspatil/rosspatil/master/pics/37.png" title="Jenkins" width="60">]()|[<img  src="https://raw.githubusercontent.com/rosspatil/rosspatil/master/pics/38.png" title="Spinnaker" width="50">]()|
-|---|---|---|
+|[<img  src="https://raw.githubusercontent.com/rosspatil/rosspatil/master/pics/36.png" title="Azure Devops" width="50" height="50">]()|[<img  src="https://raw.githubusercontent.com/rosspatil/rosspatil/master/pics/37.png" title="Jenkins" width="60">]()|
+|---|---|
 
 <br><br>
 
