@@ -8,24 +8,23 @@
 
 ## Glad to see you here! 🤩 ![visitors](https://rosspatil-visitor-badge.glitch.me/badge?page_id=rosspatil.rosspatil)
 
+Roshan is a Software Engineer 👨‍💻 at SumUp, Berlin 🇩🇪... He has 4+ years of experience in developing high scale and robust software products.
 
-Roshan is a Product Developer 👨‍💻 at CloudCover, Pune. He architects, design, develop products with a TDD approach and also handles the deployment in multi-cloud environments.
+He worked in the Education domain📚 and Pure DevOps factory 🔄. Now he is working with a well know FinTech 💶 to solve the problems of merchants using technology.
 
-A Goto person for all of your GoLang requirements and also fully loaded with a variety of technologies to develop software in the modern era from frontend, backend, and databases to the deployments.
+Roshan thinks the code without test cases are useless, so he develops everything with the TDD approach.
 
-Roshan has a much-diversified outline which includes the aspect of Product Development, DevOps, and Data Engineering in the cloud-native space.
-
-Being a Cloud-Native Enthusiast ☁️, Roshan is enjoying the journey with cutting-edge Cloud native technologies to develop cloud products that provides enterprises a self-managed cloud environment with total governance to help them move faster on any public cloud.
+A Goto person for all of your GoLang requirements and has a much-diversified outline that includes the aspect of Product Development👨‍💻 , DevOps 🔄. , and Data Engineering 📊 in the cloud-native ☁️ space.
 
 Roshan was a lead developer in India's biggest cloud to cloud, big-bang migration.
 
 Roshan has strong proficiency in writing CI/CD on any public cloud as well as on other automation tools like Jenkins. He himself handling CI/CD for the products he is developing or already being developed.
 
-Roshan has a strong experience in the implementation of pure microservice and event-driven architectures.
+Roshan has strong experience in the implementation of pure microservice and event-driven architectures.
 
 A strong technical person, Roshan quickly wanted to become a polyglot developer and heading towards the Software Architect path.
 
-As a proud developer, Roshan loves ❤️ to contribute back in Open Source Community.
+As a proud developer, Roshan loves ❤️ to contribute back to Open Source Community.
 
 #### Roshan's Open Source Contribution 👇🏾👇🏾👇🏾
  1. <a href="https://github.com/cloudspannerecosystem/dynamodb-adapter">DynamoDB Adapter</a> </h2>
