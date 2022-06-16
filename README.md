@@ -8,7 +8,7 @@
 
 ## Glad to see you here! 🤩 ![visitors](https://rosspatil-visitor-badge.glitch.me/badge?page_id=rosspatil.rosspatil)
 
-Roshan is a Software Engineer 👨‍💻 at SumUp, Berlin 🇩🇪... He has years of experience in developing high scale and robust software products.
+Roshan is a Software Engineer 👨‍💻 at SumUp, Berlin 🇩🇪... He has 5 years of experience in developing high scale and robust software products.
 
 He worked in the Education domain📚 and Pure DevOps factory 🔄. Now he is working with a well know FinTech 💶 to solve the problems of merchants using technology.
 
