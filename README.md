@@ -26,15 +26,18 @@ A strong technical person, Roshan quickly wanted to become a polyglot developer 
 
 As a proud developer, Roshan loves ❤️ to contribute back to Open Source Community.
 
-#### Roshan's Open Source Contribution 👇🏾👇🏾👇🏾
- 1. <a href="https://github.com/cloudspannerecosystem/dynamodb-adapter">DynamoDB Adapter</a> </h2>
- 
-    Role - Admin, Maintainer, & Reviewer.
+
 
 #### Here are some of the blogs published by Roshan -
  1. <a href="https://hackernoon.com/using-dal-for-migration-from-dynamodb-to-spanner-and-bigtable-9hx3t2q"> Using DAL For Migration From DynamoDB to Spanner and Bigtable </a>
  2. <a href="https://cldcvr.com/news-and-media/blog/distributed-tracing-so-your-ops-team-can-stop-having-sleepless-nights/"> Distributed Tracing - So Your Ops Team Can Stop Having Sleepless Nights </a>
  3. <a href="https://cldcvr.com/news-and-media/blog/how-to-successfully-migrate-data-from-dynamodb-to-spanner-and-bigtable/" > How to successfully migrate data from DynamoDB to Spanner and Bigtable </a>
+ 
+<!---
+#### Roshan's Open Source Contribution 👇🏾👇🏾👇🏾
+ 1. <a href="https://github.com/cloudspannerecosystem/dynamodb-adapter">DynamoDB Adapter</a> </h2>
+ 
+    Role - Admin, Maintainer, & Reviewer.
 ---
 ## Roshan's skills 👇🏾👇🏾👇🏾
 
@@ -83,6 +86,7 @@ As a proud developer, Roshan loves ❤️ to contribute back to Open Source Comm
 |---|---|
 
 <br><br>
+-->
 
 ![Thanks a ton](https://img.shields.io/badge/-Thanks%20a%20ton%20❤️-ff69b4.svg)
 
