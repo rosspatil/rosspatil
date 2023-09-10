@@ -8,25 +8,23 @@
 
 ## Glad to see you here! 🤩 ![visitors](https://rosspatil-visitor-badge.glitch.me/badge?page_id=rosspatil.rosspatil)
 
-Roshan is a Software Engineer 👨‍💻 at SumUp, Berlin 🇩🇪... He has mid-senior level experience in developing high scale and robust software products.
+👨‍💻 Roshan is a seasoned Engineering Manager and Technical Lead at SumUp, Berlin 🇩🇪, with a passion for driving innovation in software development.
 
-He worked in the Education domain📚 and Pure DevOps factory 🔄. Now he is working with a well know FinTech 💶 to solve the problems of merchants using technology.
+🌐 With a track record of success, Roshan is a Cloud Native expert, currently at the forefront of large-scale Gen AI-based initiatives that leverage cloud-native technologies.
 
-Roshan thinks the code without test cases are useless, so he develops everything with the TDD approach.
+📚 Roshan's journey spans the Education domain📚 and a stint in a Pure DevOps factory 🔄. Today, he is spearheading transformative projects at a prominent FinTech 💶, dedicated to solving merchant challenges with technology.
 
-A Goto person for all of your GoLang requirements and has a much-diversified outline that includes the aspect of Product Development👨‍💻 , DevOps 🔄. , and Data Engineering 📊 in the cloud-native ☁️ space.
+🧪 Roshan's commitment to code quality is unwavering. He champions the Test-Driven Development (TDD) approach, ensuring every line of code in projects is battle-hardened.
 
-Roshan was a lead developer in India's biggest cloud to cloud, big-bang migration.
+🚀 As a go-to person for all GoLang requirements, Roshan combines Product Development👨‍💻, DevOps 🔄, and Data Engineering 📊 expertise in the dynamic cloud-native ☁️ landscape, with a specific focus on leading large-scale Gen AI endeavors.
 
-Roshan has strong proficiency in writing CI/CD on any public cloud as well as on other automation tools like Jenkins. He himself handling CI/CD for the products he is developing or already being developed.
+🌟 Roshan led India's largest cloud-to-cloud, big-bang migration, showcasing his prowess in complex technical endeavours.
 
-Roshan has strong experience in the implementation of pure microservice and event-driven architectures.
+🔍 Roshan's technical acumen shines through in his implementation of pure microservice and event-driven architectures, driving scalability and responsiveness.
 
-A strong technical person, Roshan quickly wanted to become a polyglot developer and heading towards the Software Architect path.
+❤️ A proud developer, Roshan is passionate about giving back to the Open Source Community, contributing to the collective growth of the tech industry.
 
-As a proud developer, Roshan loves ❤️ to contribute back to Open Source Community.
-
-
+Connect with Roshan to explore the fascinating world of large-scale Gen AI projects, cloud-native innovation, and robust software engineering. 🚀
 
 #### Here are some of the blogs published by Roshan -
  1. <a href="https://hackernoon.com/using-dal-for-migration-from-dynamodb-to-spanner-and-bigtable-9hx3t2q"> Using DAL For Migration From DynamoDB to Spanner and Bigtable </a>
