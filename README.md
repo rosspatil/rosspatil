@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/github/followers/rosspatil?label=rosspatil&logo=github&style=plastic)](https://github.com/rosspatil)
 <br />
 
-## Glad to see you here! 🤩 ![visitors](https://rosspatil-visitor-badge.glitch.me/badge?page_id=rosspatil.rosspatil)
+## Glad to see you here! 🤩
 
 👨‍💻 Roshan is a seasoned Engineering Manager and Technical Lead at SumUp, Berlin 🇩🇪, with a passion for driving innovation in software development.
 
